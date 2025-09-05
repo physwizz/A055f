@@ -1,1 +1,0 @@
-obj-y += sc800csmipiraw_Sensor.o

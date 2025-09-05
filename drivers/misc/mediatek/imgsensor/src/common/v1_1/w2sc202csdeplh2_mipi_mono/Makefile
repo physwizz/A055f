@@ -1,1 +1,0 @@
-obj-y += w2sc202csdeplh2_mipimono_Sensor.o

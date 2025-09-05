@@ -1,4 +1,0 @@
-ifeq ($(WT_COMPILE_FACTORY_VERSION),yes)
-    ccflags-y := -DWT_COMPILE_FACTORY_VERSION
-endif
-obj-$(CONFIG_TYHX_HX9035) += hx9035.o

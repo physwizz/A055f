@@ -1,1 +1,0 @@
-obj-y += n28c8496frontdc_mipiraw_sensor.o

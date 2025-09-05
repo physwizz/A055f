@@ -1,1 +1,0 @@
-obj-y += n26_gc02m2_micro_cxt_mipi_Sensor.o

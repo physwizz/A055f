@@ -1,1 +1,0 @@
-obj-$(CONFIG_TOUCHSCREEN_FTS_FT8057S) += focaltech_test_ft8057.o

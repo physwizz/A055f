@@ -1,1 +1,0 @@
-obj-y += w2s5kjn1rearst_mipiraw_Sensor.o

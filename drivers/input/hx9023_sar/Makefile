@@ -1,1 +1,0 @@
-obj-$(CONFIG_HX9023S_SAR) += hx9023s.o
